@@ -34,7 +34,9 @@ modify `wechat_with_bot/src/conf/config.js` to add your wechat token and chatgpt
 - `OPENAI_API_KEY`: chatgpt api key
 
 > see [WeChat Configuration](https://developers.weixin.qq.com/doc/offiaccount/Basic_Information/Access_Overview.html) for wechat dev tutorial
+
 > see [WeCom Configuration](https://developer.work.weixin.qq.com/document/path/90664) for wecom dev tutorial
+
 > see [ChatGPT Configuration](https://platform.openai.com/docs/introduction) for chatgpt api tutorial
 
 ## Usage
